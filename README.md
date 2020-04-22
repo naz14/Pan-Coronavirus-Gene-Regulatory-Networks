@@ -22,6 +22,9 @@ I'm a Bioinformatics undergraduate student at the University of Saskatchewan in 
 **Layla Hosseini-Gerami (Partipant)**
 I'm a PhD student based at the Centre for Molecular Informatics at the University of Cambridge in the areas of bioinformatics and cheminformatics. My work focuses on network/systems biology methods using gene expression and molecular interaction (e.g. protein-protein interaction) data to understand drug mechanism of action. 
 
+**Nazia Ahmed (Partipant)**
+I'm a PhD student computational biology student at the University of Leeds in UK. My my research interests are genomics, brain cancer and network analysis. 
+
 ## Useful Resources 
 
 ### Gene Expression/Omics Databases
